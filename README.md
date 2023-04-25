@@ -1,4 +1,4 @@
-### To be Frank 🤠
+### To be Frank, I'm a junior dev 🤠
 
 <!--
 **FrankTimmons/FrankTimmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
